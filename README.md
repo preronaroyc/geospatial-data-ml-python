@@ -1,0 +1,1 @@
+I am building this repository as a personal learning journey to deepen my skills in spatial data science. Because this is a living project, I will be frequently updating it with new experiments, refined code, and fresh case studies as I learn more. It serves as a record of my progress in applying machine learning to solve real-world geographic problems.
